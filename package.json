@@ -4,7 +4,8 @@
   "description": "Simple Cloudflare Worker to get rough location of user",
   "main": "worker.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx miniflare worker.js"
   },
   "repository": {
     "type": "git",
