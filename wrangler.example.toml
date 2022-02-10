@@ -1,0 +1,11 @@
+name = "coords-worker"
+type = "javascript"
+routes = [
+    '*.workers.dev/coords'
+]
+account_id = 'abcdefghijklmnopqrstuvwxyz'
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2022-02-10"
