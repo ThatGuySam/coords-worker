@@ -1,0 +1,19 @@
+{
+  "name": "coords-worker",
+  "version": "1.0.0",
+  "description": "Simple Cloudflare Worker to get rough location of user",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatGuySam/coords-worker.git"
+  },
+  "author": "Sam Carlton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatGuySam/coords-worker/issues"
+  },
+  "homepage": "https://github.com/ThatGuySam/coords-worker#readme"
+}
